@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Installed Apps</string>
+    <string name="enter_text">Enter text…</string>
+    <string name="apps_activity_title">My installed applications</string>
+</resources>
